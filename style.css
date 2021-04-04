@@ -1,0 +1,32 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    width: 516px;
+    padding-left: 108px;
+}
+
+.grid-item {
+    text-align: center;
+    padding: 3px;
+}
+
+img {
+    width: 256px;
+    height: 144px;
+}
+.img-responsive{
+    height: 576 !important;
+    width: 1024 !important;
+}
+#myCarouse2{
+    height: 576 !important;
+    width: 1024 !important;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    background-color: red;
+}
+p{
+    font-size: 20px;
+    padding-top: 10px;
+    color: white;
+}
